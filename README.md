@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kludák Dániel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Spring boot and Angular
+- 🌱 I’m currently working as a full stack developer
 - 📫 You can Email me at: kludak.daniel15@gmail.com
 
 <!---
